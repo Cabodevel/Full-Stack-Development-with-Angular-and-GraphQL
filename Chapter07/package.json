@@ -5,7 +5,7 @@
     "codegen": "npx graphql-codegen --watch"
   },
   "devDependencies": {
-    "lerna": "^4.0.0"
+    "lerna": "^7.1.1"
   },
   "version": "0.0.1",
   "dependencies": {
